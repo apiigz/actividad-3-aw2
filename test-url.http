@@ -1,0 +1,11 @@
+### --
+
+GET https://localhost:3000
+
+### --
+
+GET https://localhost:3000/usuarios
+
+### --
+
+GET https://localhost:3000/test
